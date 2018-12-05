@@ -1,0 +1,31 @@
+.head {
+    padding: 40px;
+    background-color: #DF4C20;
+    margin-bottom: 5px;
+}
+
+#head-link {
+    background-color: #197EC1;
+    margin: 1px;
+}
+
+.left {
+    padding: 165px 53px;
+    background-color: aqua;
+    float: left;
+
+}
+
+
+.right {
+    padding: 165px 53px;
+    background-color: aqua;
+    float: right;
+}
+
+
+footer {
+    padding: 383px;
+    clear: both;
+    background-color: beige;
+}
